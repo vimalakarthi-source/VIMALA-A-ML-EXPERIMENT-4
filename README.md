@@ -22,21 +22,6 @@ Train logistic regression; compute accuracy, precision, recall, F1, AUC and plot
 
 
 
-
-## THEORY:
-
-
-
-
-
-
-Logistic function models log-odds; evaluation depends on use-case (class imbalance etc.). 
-
-
-
-
-
-
 ## ALGORITHM:
 
 
@@ -46,6 +31,21 @@ Logistic function models log-odds; evaluation depends on use-case (class imbalan
 
 
 Logistic regression (MLE). ROC uses predicted probabilities.
+
+
+
+
+
+
+## THEORY:
+
+
+
+
+
+
+
+Logistic function models log-odds; evaluation depends on use-case (class imbalance etc.).
 
 
 
@@ -141,7 +141,7 @@ AUC: 1.0
 
 
 
-## RESUIT:
+## RESULT:
 
 
 
